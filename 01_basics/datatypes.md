@@ -19,4 +19,3 @@
  - Function, modules, classes
 
  - Advance: Decorater, Generators, Iterators, Context Manager,
-   
